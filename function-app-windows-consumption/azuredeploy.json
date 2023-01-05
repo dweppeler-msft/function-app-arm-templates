@@ -36,7 +36,7 @@
         "node",
         "python",
         "java",
-        "powershell",
+        "powershell"
       ],
       "metadata": {
         "description": "The language worker runtime to load in the function app."
