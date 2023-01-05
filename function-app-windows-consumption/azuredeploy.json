@@ -35,7 +35,8 @@
         "dotnet",
         "node",
         "python",
-        "java"
+        "java",
+        "powershell",
       ],
       "metadata": {
         "description": "The language worker runtime to load in the function app."
